@@ -1,0 +1,9 @@
+https://www.c-sharpcorner.com/article/two-ways-to-insert-bulk-data-into-oracle-database-using-c-sharp/
+
+
+https://www.akadia.com/services/ora_bulk_insert.html
+
+http://rberaldo.com.br/inserindo-multiplos-registros-em-tabela-de-banco-de-dados/
+
+https://www.vivaolinux.com.br/artigo/Store-Procedures-com-Transaction-no-MySQL/
+
